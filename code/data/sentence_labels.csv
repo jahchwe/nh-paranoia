@@ -1,0 +1,247 @@
+run,sentence,sentence_offset_runsconcatenated,sentence_offset_inrun,mentalizing_event
+story1,"The email came late one afternoon as Dr Carmen Reed was sitting in her office, filling out medical charts for the patients she had seen that day.",11,11,0
+story1,"It had been a long day at the busy clinic in Chicago where she worked, and Carmen was tired and ready to go home.",18,18,0
+story1,But the email’s strange subject line caught her eye:,23,23,0
+story1,"“Fellow doctor, I need your help.”",26,26,1
+story1, It was sent by someone named Dr John Torreson.,29,29,0
+story1,"Intrigued, Carmen began to read.",32,32,0
+story1,Dr Torreson said he was a classmate of Carmen’s from medical school.,38,38,0
+story1,"She didn’t recognize his name — but then again, she wasn’t great with names.",42,42,1
+story1,"Dr Torreson had spent the last two years working in a remote part of Peru, deep in the Amazon jungle, where a nonprofit organization had built a small medical clinic for the villagers.",55,55,0
+story1,"But, Dr Torreson wrote, he needed to return to the United States on very short notice.",61,61,0
+story1,"The clinic was the villagers’ only source of health care, and with Dr Torreson leaving, the nonprofit was threatening to close it down unless a replacement doctor could be found immediately.",72,72,0
+story1,"Even if Carmen could spare a couple of months, it would be an enormous help.",77,77,1
+story1,"Dr Torreson wrote, “It breaks my heart to leave this place, but I really hope you consider coming to work here.",84,84,1
+story1,I think you would find it very rewarding.”,86,86,1
+story1,"Later that night, Carmen thought it over.",91,91,0
+story1,There was little tying her to Chicago.,93,93,0
+story1,"She had friends, a house, her Sunday morning tennis game — but all of that would be there when she got back.",100,100,0
+story1,"Besides, it was November, and the thought of the upcoming winter was enough to make a few months in the rainforest sound pretty appealing.",108,108,0
+story1,"She reached for her laptop and quickly typed her response, hitting “send” before she could change her mind.",115,115,1
+story1,"A week later, Carmen was boarding her plane at the Chicago airport.",120,120,0
+story1,She was both nervous and excited.,122,122,0
+story1,"After a layover in Lima, it was a short flight to Puerto Maldonado, a small town at the edge of the Amazon jungle.",131,131,0
+story1,"As the plane started to descend, Carmen looked down eagerly at the landscape below: a carpet of blue-green trees, with a brown river snaking through it.",141,141,0
+story1,"It looked beautiful, and completely wild.",144,144,0
+story1,"Stepping out onto the runway, a blast of steamy air hit Carmen’s face, filling her mouth and nostrils.",151,151,0
+story1,"Whoa, she thought to herself. Welcome to the jungle.",154,154,0
+story1,"Inside the tiny airport terminal, a man stood clutching a piece of paper with Carmen’s name on it.",161,161,0
+story1,"“Antonio,” the man said, pointing at his chest.",164,164,0
+story1,He motioned for Carmen to follow him.,167,167,0
+story1,They walked out of the terminal and Carmen was once again hit by a wave of humid air.,172,172,0
+story1,Antonio led her to a run-down motorcycle with a seat attached to the back.,177,177,0
+story1,"Carmen sat down apprehensively, but once Antonio started driving, the breeze felt wonderful against Carmen’s skin.",184,184,0
+story1,The main road through the town was full of sights and sounds: children darted between the vehicles; women in flip-flops carried huge baskets full of goods; street vendors sold giant tropical fruits that Carmen could not name.,199,199,0
+story1,"Soon, Antonio turned onto a side street, which led down to a river.",204,204,0
+story1,"There, a boat was waiting to take her on the final leg of the journey to the remote village.",209,209,0
+story1,"Once Carmen and her suitcase were safely inside the boat, the driver set off on the river.",215,215,0
+story1,"By this time, the sun was setting, and Carmen swatted away mosquitos as the driver whistled to himself.",221,221,0
+story1,"The water was calm, the air still;",224,224,0
+story1,Carmen suddenly felt very far from everything and everyone she knew.,229,229,0
+story1,"After what felt like a very long time, the driver turned the boat toward shore.",235,235,0
+story1,She wondered how he had recognized their destination: there was no sign of civilization anywhere.,241,241,0
+story1,"Carmen climbed awkwardly onto the muddy riverbank, trying to keep her balance in the fading light.",248,248,0
+story1,"Just as she managed to lift her suitcase up beside her, she looked over her shoulder to see the driver was already motoring back up the river.",257,257,0
+story1,"“Wait!” she called out, alarmed. “Where do I go from here?”",261,261,1
+story1,Her voice was drowned out by the buzzing of insects and rushing of the river.,266,266,0
+story1,"She looked around: Nothing but dense, shadowy rainforest.",271,271,0
+story1,"Just as she was about to panic, she heard footsteps from within the brush.",276,276,0
+story1,"A man emerged from the trees, holding a lantern.",280,280,0
+story1,"When he saw Carmen, he smiled broadly.",283,283,0
+story1,"“Hello, Dr Carmen!” he said. “I’m Juan. Juan Torres. We thank you very much for coming to serve our village.”",291,291,0
+story1,"Though he spoke with a heavy accent, his English was very good.",295,295,0
+story1,"With a sigh of relief, Carmen smiled and shook his hand.",299,299,0
+story1,Juan led her down a narrow path through the forest.,303,303,0
+story1,"Carmen struggled to keep up, tugging her suitcase over the uneven ground.",308,308,0
+story1,"Soon, they emerged into a clearing.",311,311,0
+story1,"It was nearly pitch black now, but Carmen could make out the shapes of huts with thatched roofs.",317,317,0
+story1, Juan ushered her toward one of them.,320,320,0
+story1," Inside were a few pieces of simple wooden furniture: a bed frame, covered by a thin mattress, and a small table.",327,327,0
+story1,The floor was packed dirt.,329,329,0
+story1,Juan put the lantern on the table.,331,331,0
+story1,"“You must be very tired from the journey,” he said. “You should rest now. We will see each other tomorrow.”",338,338,0
+story1,He nodded and bowed out of the hut.,341,341,0
+story1,"As soon as Carmen sat down on the bed, she felt completely exhausted.",345,345,0
+story1,"She arranged the mosquito net around her as best she could, and fell immediately into a deep sleep.",352,352,0
+story1,Carmen woke the next morning to sunlight streaming through the wooden slats of the hut.,359,359,0
+story1,She had no idea how long she’d slept.,361,361,0
+story1,She propped herself up on one elbow and squinted at her surroundings.,366,366,0
+story1,"Suddenly, she heard a rustling in the corner.",369,369,0
+story1,"A small figure stood there, holding a broom made from palm leaves.",373,373,0
+story1,"Carmen nearly screeched in shock, but stopped herself at the last moment, so that what came out was a garbled yell.",380,380,1
+story1,The noise frightened the girl and she jumped back.,383,383,1
+story1,"“Sorry, you startled me!” Carmen said.",387,387,1
+story1,The girl continued to stare at her with huge brown eyes.,391,391,0
+story1,She looked to be around 11 or 12 years old.,394,394,0
+story1,It dawned on Carmen that she probably didn’t speak English.,398,398,0
+story1,"“Carmen,” Carmen said, pointing at her chest.",402,402,1
+story1,"“Alba,” the girl answered, pointing at her own.",406,406,1
+story1,"“Juan?” Carmen asked, holding up her hands, hoping the girl could lead her to the man from the night before.",413,413,1
+story1,"Nodding, Alba motioned for Carmen to follow her outside, and Carmen got her first glimpse of the village in daylight.",420,420,0
+story1,Her hut was near what appeared to be the village center.,424,424,0
+story1,"Women stood around small fires, smoking meats and stirring soups.",429,429,0
+story1,"Children ran around them, dodging vines on the ground.",433,433,0
+story1,A group of teenage boys was hard at work constructing a new hut.,437,437,0
+story1,"Scanning the scene, Carmen spotted Juan across the clearing, deep in conversation with a small group of men.",443,443,0
+story1,"Their clothing was more decorative than most of the other villagers’, which made Carmen think they were leaders of some sort.",450,450,0
+story1,"When Juan noticed her, he whispered something to the other men, who also turned to stare at Carmen.",457,457,0
+story1,"For a brief moment Carmen felt uncomfortable, but then Juan broke into a smile and strode over.",463,463,0
+story1,"“Dr Carmen, good morning!” he said.  “I will show you to the clinic now, yes?”",469,469,0
+story1,"“Yes, please,” Carmen said, eager to get started.",473,473,0
+story1,Juan led Carmen down a short path to a hut that looked identical to her own.,478,478,0
+story1,"Inside were two mattresses placed directly on the ground, plus a makeshift table.",484,484,0
+story1,"The only medical supplies appeared to be an old-fashioned stethoscope, a thermometer, and a half-empty box of bandages.",491,491,0
+story1,"“Hmm, that’s funny. Dr Torreson said the clinic was well stocked…” Carmen started to say.",498,498,1
+story1,"“Dr Torreson?” Juan repeated, looking confused.",502,502,1
+story1,"“Ah, sí, Señor Torreson, of course. The organization has promised to send us replacement supplies, but they have not arrived yet.",511,511,1
+story1,"The shipments are always being delayed, you know,” he added apologetically.",515,515,1
+story1,"“That’s okay,” Carmen said.",518,518,0
+story1,She would have to make do with small bag of supplies she had brought with her until the shipment arrived.,524,524,0
+story2,"During Carmen’s first few days in the clinic, most of the patients she saw had fairly minor problems: cuts and scrapes, toothaches, indigestion.",536,10,0
+story2,"Carmen had a feeling that many of the people came less out of health concerns and more out of curiosity, to see the foreign woman who spoke broken Spanish and wore funny clothes, but she didn’t mind.",549,23,0
+story2,She found them just as interesting as they found her.,552,26,0
+story2,Most of them spoke a mix of Spanish and another language native to the region.,556,30,0
+story2,"When Juan was around, he could translate, but mostly Carmen and her patients got by with hand gestures and facial expressions.",563,37,0
+story2,"The villagers appreciated her help, and Carmen found it very fulfilling to care for them.",569,43,0
+story2,"Though she had been shy in the beginning, Alba proved a wonderful companion.",575,49,0
+story2,"Each morning, she would bring Carmen a potent mix of leaves in hot water, and a breakfast of mashed plantains and fried pork.",582,56,0
+story2,"In the evenings, after Carmen left the clinic, Alba would often come by her hut.",588,62,0
+story2,"She was supposed to clean for Carmen, but the two usually ended up playing games or telling stories instead.",594,68,0
+story2,"Alba was patient with Carmen’s slow Spanish, and Carmen’s language skills improved.",599,73,0
+story2,"In turn, Carmen began to teach Alba English.",603,77,0
+story2,"The girl picked up words amazingly fast, and soon she could name most everything she saw: bed, table, hut; man, woman, child; river, tree, fire. Doctor, sick, cure.",621,95,0
+story2,"After Carmen had been in the village for about a week, a patient came to the clinic with a bad fever.",628,102,0
+story2,The patient was an older woman named Maria whom Carmen didn’t recognize;,633,107,1
+story2,"According to Alba, Maria had come from another village down the river.",638,112,1
+story2,"Carmen gave her medication and had her drink plenty of water, but Maria’s fever just got worse.",644,118,0
+story2,"She also had a strange rash across her chest and back, like nothing Carmen had ever seen.",650,124,0
+story2,Carmen told Maria she should stay in the clinic overnight until she felt better.,655,129,0
+story2,"That evening, Juan came to the clinic with another man.",659,133,0
+story2,"The two men stood in the doorway, not wanting to come any closer, as if they were afraid Maria might be contagious.",666,140,1
+story2,"When Carmen noticed they were there, she rushed over to Juan.",670,144,0
+story2,She wanted to know if anyone in the village had had a fever like this before.,675,149,0
+story2,Had Dr Torreson treated any patients with this fever?,678,152,0
+story2,"“No,” Juan said. “I have never seen anything like this.” But the other man had a strange expression on his face.",686,160,1
+story2,"Carmen watched them leave, puzzled.",688,162,1
+story2,"The following morning, Carmen gave Maria more medication, but nothing seemed to help.",694,168,0
+story2,"When Carmen came back from her afternoon break, she found that Maria had disappeared.",699,173,0
+story2,"Concerned, she called for Alba.",702,176,0
+story2,"“Maria? She was taken away,” Alba said in cryptic Spanish.",707,181,1
+story2,"If Alba knew any more than that, she wouldn’t say.",710,184,1
+story2,"Carmen was baffled, and a little unsettled, but she had no choice but to accept it.",716,190,1
+story2,"Though she was growing more comfortable in her new home, certain aspects of the culture were still quite mysterious to her.",723,197,0
+story2,"The second week Carmen was there, there was a festival in the village.",728,202,0
+story2,"The men made a huge bonfire, and the women cooked a delicious feast.",732,206,0
+story2,"Some of the villagers played traditional music, and everyone danced late into the night.",737,211,0
+story2,Carmen thoroughly enjoyed herself.,740,214,0
+story2," At one point, Juan came to sit beside her.",744,218,0
+story2,"“You know, everyone here is so grateful that you came such a long way to care for us,” he said, a look of genuine appreciation in his eyes.",752,226,0
+story2,“I don’t know what we’d do without you here.”,755,229,0
+story2,"Carmen smiled back, feeling pleased that she had taken a chance on this adventure.",760,234,0
+story2,"Overall, Carmen was happy in the Amazon, but she still felt homesick from time to time.",767,241,0
+story2,"One morning, she discovered that if she hiked to the top of a small hill behind her hut, her cell phone picked up a weak signal.",775,249,0
+story2,"She called Linda, a close friend at home.",778,252,0
+story2,"To Carmen’s delight, Linda picked up, and the two women talked for a long time.",783,257,0
+story2,"Carmen told Linda all about the Amazon, even mentioning the patient with the strange fever.",788,262,0
+story2,"After they hung up, Carmen headed back down the hill, comforted by the conversation.",793,267,0
+story2,"As she was settling in for an afternoon siesta, there was a knock on the door of her hut.",799,273,0
+story2,"“Come in!” she called, surprised.",802,276,0
+story2,The door swung open and Juan burst inside.,806,280,0
+story2,"“Dr Carmen, I am sorry to bother you like this, but there is an emergency,” he said.",811,285,1
+story2,“Some of my men have seen loggers working in a part of the rainforest that is strictly off-limits.,816,290,0
+story2,"We must contact the authorities to stop them right away, but our satellite phone is not working.",821,295,0
+story2,I need to take your cell phone.”,823,297,1
+story2," “Of course,” she said, flustered, handing over her cell phone and its solar-powered charger.",829,303,1
+story2,"“Thank you. We may need to keep it for a few days, so that we can monitor these criminals and continue to report where they are,” Juan said.",838,312,1
+story2,"“Take your time,” Carmen started to say, but Juan was already gone.",842,316,1
+story2,"The next day, a second patient with the strange fever came to see Carmen in the clinic.",850,324,0
+story2,This time it was a young man that she recognized from the village.,854,328,0
+story2,"Along with the rash, this patient had a nasty, hacking cough.",858,332,0
+story2,"He slept on one of the beds in the clinic, groaning and thrashing in what seemed to be nightmares.",864,338,0
+story2,"Carmen stayed with him late into the evening, then went to her hut for a couple hours’ rest.",870,344,0
+story2,"At dawn, she returned to the clinic to find that he hadn’t made it through the night.",875,349,0
+story2,"Traumatized and brokenhearted, Carmen ran to find his family.",879,353,0
+story2,Four of the men from the village carried his body away.,883,357,0
+story2,"Even though she knew that it was not her fault, that she had done the best she could, Carmen felt horribly guilty over the young man’s death.",892,366,0
+story2,"Just a few days later, Carmen saw her third patient with the strange fever.",899,373,0
+story2,"She recognized the man as Ramiro, a village leader and one of Juan’s close friends.",904,378,0
+story2,"Luckily, Ramiro didn’t seem to be as far along in the illness as the other patients she’d seen.",909,383,0
+story2,"His forehead was warm, but he didn’t yet have the rash or the hacking cough.",915,389,0
+story2,"Carmen began treating him with medication, lots of water, and some medicinal plants that Alba had brought her.",922,396,0
+story2,Carmen tended to Ramiro round the clock for two days.,925,399,0
+story2,"Finally, his fever went down.",928,402,0
+story2,"On the day Ramiro was released from the clinic, his entire family came to show their gratitude, showering Carmen with gifts.",937,411,0
+story2,"She was embarrassed at the attention, but also thrilled and proud to have cured the man.",943,417,0
+story2,These were the moments that reminded her why she had become a doctor in the first place.,947,421,0
+story2,"When Juan himself came to personally thank her for curing his friend, Carmen thought she noticed tears in his eyes.",955,429,0
+story2,"“Here, we would like you to have this,” Juan said, handing her a small package wrapped in leaves and twine.",962,436,0
+story2,Carmen opened it carefully.,964,438,0
+story2,Inside was a delicate handmade necklace.,968,442,0
+story2,"It was beautiful, and Carmen was touched.",971,445,0
+story2,She felt she had truly become part of her new community.,974,448,0
+story3,Another week went by.,982,4,0
+story3,Carmen noticed a change in the weather:,985,7,0
+story3,"The sky was overcast, and the air was even more humid now.",989,11,0
+story3,"According to Alba, it was the start of the rainy season.",994,16,0
+story3,But Carmen didn’t mind.,996,18,0
+story3,She was enjoying the time spent with Alba more and more.,999,21,0
+story3,She had even begun teaching the girl to read.,1003,25,0
+story3,"Carmen thought that if she ever had a daughter, she’d like her to be like Alba.",1008,30,0
+story3,Carmen felt frustrated that she was unable to do more for the victims of this fever.,1014,36,0
+story3,"So far one of her patients had recovered, but one had died, and it was impossible to know what had happened to Maria.",1021,43,0
+story3,"She racked her brain for medicines that might help, and wrote out a list to give to Juan.",1027,49,0
+story3,"He still had not returned her cell phone, but Carmen didn’t want to pressure him.",1032,54,0
+story3,"The following morning on her walk to the clinic, Carmen spotted Juan in the center of the village, conversing with his group of leaders.",1041,63,1
+story3,"As she walked over to them, the men suddenly stopped talking, giving Carmen the feeling that she had interrupted something important.",1049,71,1
+story3,"When Carmen gave Juan her list of medicines, he told her he’d put in the order right away.",1055,77,1
+story3,But then Carmen remembered that replacement shipment Juan promised had never arrived.,1061,83,1
+story3,"That night in her hut, Carmen continued to turn things over in her mind.",1067,89,0
+story3,What if this was an unknown disease?,1069,91,0
+story3,It didn’t seem like any of the tropical fevers she was familiar with.,1075,97,0
+story3,"At times, Carmen felt like there was something the villagers weren’t telling her.",1080,102,1
+story3,Did they know more about the disease than they were letting on?,1083,105,1
+story3,Did they think that having a foreigner come and see what was happening—or maybe even get sick herself—was the only way to get medical help?,1092,114,1
+story3,"But Carmen quickly put the idea out of her head, ashamed at herself for being so distrustful.",1098,120,1
+story3,Juan and the villagers had been so welcoming.,1101,123,1
+story3,"There was no reason to think that they had known about the fever before she came, and besides, Dr Torreson hadn’t mentioned anything about it in his email.",1111,133,1
+story3,"Lost in her thoughts, Carmen suddenly realized that Alba hadn’t come by that evening.",1118,140,0
+story3,"Carmen reasoned that the girl was probably helping her family prepare for the rainy season, although she missed her company.",1125,147,0
+story3,"Alba didn’t come the next morning at breakfast, either.",1130,152,0
+story3,Carmen spent the day in the clinic and returned home in the evening to wait for the girl.,1135,157,0
+story3,Hours passed with no sign of Alba.,1137,159,0
+story3,"Worried and lonely, Carmen decided to go check on her.",1141,163,0
+story3,"Carmen had never been inside Alba’s family’s hut, though she knew which one it was.",1147,169,0
+story3,"Carmen crossed the clearing carefully, avoiding the slippery patches of mud left by the rain.",1153,175,0
+story3,"She knocked once, twice, three times; no answer.",1158,180,0
+story3,"Not wanting to invade the family’s privacy, she almost walked away.",1163,185,0
+story3,"But concern and curiosity got the better of her, and she pushed open the door.",1169,191,0
+story3,Carmen was horrified by what she saw inside.,1172,194,0
+story3,"Alba lay on the ground, coughing and flailing.",1176,198,0
+story3,"A woman and a man were bent over her, trying to get her to drink.",1180,202,0
+story3,"Alba’s shirt was off, and by the light of the fire, Carmen could see the telltale rash across her chest.",1188,210,0
+story3,"Carmen gasped, and the man looked up at her.",1191,213,0
+story3,"She was shocked to see that it was Juan, and his eyes were filled with tears.",1196,218,0
+story3,“Alba… Alba is your daughter?” Carmen said in shock.,1202,224,1
+story3,How could she not have known?,1205,227,1
+story3,"Juan nodded, a desperate look in his eyes.",1208,230,1
+story3,"“I’ll be right back,” she said, intending to sprint to the clinic to retrieve the last of her anti-fever medication.",1215,237,0
+story3,"As she turned to leave, she saw her cell phone sitting on a table near the door, and grabbed it on instinct.",1222,244,0
+story3,She looked behind her but Juan had already turned his attention back to Alba.,1228,250,0
+story3,Carmen didn’t go straight to the clinic.,1231,253,0
+story3,"On a whim, she took a lantern and set off down the path that led to the river.",1236,258,0
+story3,"Arriving at the shore out of breath, she sat on a rock and stared out at the muddy water.",1243,265,0
+story3,"Carmen wildly hoped that a boat would pass by, but none did.",1247,269,0
+story3,It dawned on her just how isolated she was.,1251,273,0
+story3,How long had Alba been sick?,1254,276,1
+story3,Why hadn’t she told Carmen?,1256,278,1
+story3,"With a jolt, Carmen thought about Alba’s hands preparing her breakfast, folding her clothes, making the bed.",1263,285,1
+story3,Was the fever contagious?,1265,287,1
+story3,What if Carmen already been infected?,1268,290,1
+story3,"Carmen turned the cell phone over in her hands, trying not to panic.",1275,297,0
+story3,She was completely torn.,1277,299,0
+story3,"Part of her felt anxious and scared, and wanted to leave right away.",1282,304,0
+story3,"But another part of her felt wracked with guilt to think about leaving the villagers, especially Alba, in this predicament.",1289,311,0
+story3,"Carmen pictured Alba’s wide, trusting eyes;",1293,315,0
+story3,"If she left now, the decision would haunt her for a long time.",1297,319,0
+story3,"On the other hand, she wasn’t even sure if the disease could be treated, and she could be risking her life if she stayed.",1305,327,0
+story3,What was she going to do?,1307,329,0
