@@ -14,5 +14,10 @@
 
 
 ## 8/3/2022
---Run the HMM analysis on all the data on PMC ROI
---run the HMM analysis on all data on other parcelations
+1. Run the FNL HMM analysis on all the data on PMC ROI
+2. Run the FNL HMM analysis on all data on other parcelations
+3. Look at individual differences in divergence (HH group, LL group, L individual to L group, etc.)
+4. JAC applies SRM to data
+5. JAC visualize HMM fits on all ROIS
+6. Topic modeling with existing data 
+
