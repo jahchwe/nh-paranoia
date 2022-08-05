@@ -1,23 +1,19 @@
-# Daily To-Do List
+# Paranoid events 
 
-## 8/1/2022
+## Exploring the influence of traits and semantic content on neural event boundaries
 
---Figure out fMRI data when they arrive. 
---Upload to the hub. 
---Figure out preprocessing
+This project was completed for the hack week component of [NeuroHackademy](https://neurohackademy.org/) by [Jiawen Huang](https://github.com/hjweric), [Ana Fouto](https://github.com/anarfouto), [Clara Sava-Segal](https://github.com/csavasegal), and [John Andrew Chwe](https://github.com/jahchwe) on 8/2/2022. 
 
-1. Read the paranoia paper from top to bottom. 
-2. Discuss any questions from the paranoia paper together. 
-3. Read methods of HMM.
-4. Discuss any questions from the HMM paper. 
-5. Finalize preliminary analyses and steps for 8/2/2022
+In this project, we took data from the [Paranoia dataset](https://openneuro.org/datasets/ds001338/versions/1.0.0) and applied a HMM [(Baldassano et al., 2017)](https://www.sciencedirect.com/science/article/pii/S0896627317305937) to detect event structure. We then attempted to link these event boundaries to trait information (paranoia score) available for each subject as well as features of the auditory stimulus. 
+
+The final presentation can be found in this repository. 
+
+We find that we can: 
+1. Replicate the general gradient of event sensitivity found by Baldassano et al., 2017: Regions associated with higher-level processing demonstrate encoding of a fewer number of events compared to lower-level regions in both whole brain parcellations and hand-selected ROIs, and these boundaries correspond to human-annotated boundaries (thanks Clara!). 
+2. As participant paranoia score increases, individual variability in event timing also generally increases (note that this is opposite of what is found by Finn et al., 2018). 
+3. Divergence in event timings track sentiment ratings over time. 
+
+We would like to note that these findings are very shaky and are all subject to increased validation. 
 
 
-## 8/3/2022
-1. Run the FNL HMM analysis on all the data on PMC ROI
-2. Run the FNL HMM analysis on all data on other parcelations
-3. Look at individual differences in divergence (HH group, LL group, L individual to L group, etc.)
-4. JAC applies SRM to data
-5. JAC visualize HMM fits on all ROIS
-6. Topic modeling with existing data 
 
